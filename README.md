@@ -5,8 +5,11 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
+#### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,next,js,html,css,linux,nodejs,ruby,rails,graphql" width="400" />
   </a>
 </p>
+
+#### Connect with me:
