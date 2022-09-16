@@ -6,7 +6,11 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 #### Connect with me:
-
+[![website](./img/globe-light.svg)](https://myaserkhan.github.io/Portfolio/)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/khanyaser007)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yasir-khan-398229195/)
 
 #### Languages and Tools:
 <p align="left">
@@ -15,4 +19,4 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myaserkhan)](https://github.com/anuraghazra/github-readme-stats)
