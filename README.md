@@ -15,8 +15,10 @@ You can click the Preview link to take a look at your changes.
 #### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,next,js,html,css,linux,nodejs,ruby,rails,graphql" width="400" />
+    <img src="https://skillicons.dev/icons?i=linux,git,html,css,tailwind,js,react,next,nodejs,ruby,rails,graphql,mongodb,mysql,docker" width="450"/>
   </a>
 </p>
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myaserkhan)](https://github.com/anuraghazra/github-readme-stats)
