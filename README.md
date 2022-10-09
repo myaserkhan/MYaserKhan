@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yasir-khan-398229195/)
 
+#### Visitors count:
+<img src="https://profile-counter.glitch.me/myaserkhan/count.svg" /><br/>
+
 #### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
