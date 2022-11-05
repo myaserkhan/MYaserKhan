@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 #### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,react,next,nodejs,ruby,rails,graphql,mongodb,mysql,docker,solidity" width="500"/>
+    <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,react,next,nodejs,expressjs,ruby,rails,graphql,mongodb,mysql,docker,solidity" width="500"/>
   </a>
 </p>
 
