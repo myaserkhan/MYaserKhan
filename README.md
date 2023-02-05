@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,react,next,nodejs,expressjs,ruby,rails,graphql,mongodb,mysql,solidity" width="500"/>
   </a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=myaserkhan&show_icons=true&count_private=true&theme=dark" />
