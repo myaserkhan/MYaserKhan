@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/khanyaser007)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yasir-khan-398229195/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/myaserkhan/)
 
 #### Languages and Tools:
 <p align="left">
