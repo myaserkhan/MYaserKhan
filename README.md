@@ -15,19 +15,62 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages and Tools:
 
-**AI**  
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,ruby,rails,graphql" />
-
-**Database**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase" />
-
-**CI/CD**  
-<img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,vercel,netlify" />
+<table>
+  <tr>
+    <td><b>AI</b></td>
+    <td>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.8.0/dark/openai.png"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.8.0/light/openai.png" title="OpenAI SDK" alt="OpenAI SDK" height="40"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.8.0/dark/anthropic.png"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.8.0/light/anthropic.png" title="Anthropic SDK" alt="Anthropic SDK" height="40"></picture>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/claude/claude-original.svg" title="Claude" alt="Claude" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" title="Python" alt="Python" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" title="React" alt="React" height="40">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white"><img src="https://cdn.simpleicons.org/nextdotjs/black" title="Next.js" alt="Next.js" height="40"></picture>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" height="40">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/white"><img src="https://cdn.simpleicons.org/express/black" title="Express" alt="Express" height="40"></picture>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/rails/rails-plain.svg" title="Rails" alt="Rails" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/redis/redis-original.svg" title="Redis" alt="Redis" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>CI/CD</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" title="Git" alt="Git" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" title="Docker" alt="Docker" height="40">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/linux/linux-original.svg" title="Linux" alt="Linux" height="40">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white"><img src="https://cdn.simpleicons.org/vercel/black" title="Vercel" alt="Vercel" height="40"></picture>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" height="40">
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api?username=myaserkhan&show_icons=true&count_private=true&theme=dark" />
